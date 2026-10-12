@@ -12,8 +12,8 @@ PrintCAD is a blazingly fast, native macOS 3D CAD built specifically for functio
 
 ---
 
-## 📥 Download
+## 📥 Download & Pricing
 
 - **Download 14-Day Free Trial (DMG, 3.5 MB):** [PrintCAD-1.0.dmg](https://github.com/pietini69/printcad/releases/download/v1.0.0/PrintCAD-1.0.dmg)
-- **Website & Documentation:** [https://pietini69.github.io/printcad/](https://pietini69.github.io/printcad/)
-- **Buy Pro Lifetime (29 €):** [https://printcad.lemonsqueezy.com/checkout/buy/pro](https://printcad.lemonsqueezy.com/checkout/buy/pro)
+- **Official Website & Docs:** [https://pietini69.github.io/printcad/](https://pietini69.github.io/printcad/)
+- **Buy Pro Lifetime (29 €):** [Pay securely via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=niko.pietinen%40gmail.com&item_name=PrintCAD+Pro+Lifetime+License&amount=29.00&currency_code=EUR&no_shipping=1)
